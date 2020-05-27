@@ -12,6 +12,8 @@ Arkadaşlar ister local ister cloud tabanlı mongodb server imizi oluşturup  uy
 
 backend 
 - npm start
+
+
 frontend
 - npm run dev
 
