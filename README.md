@@ -17,6 +17,6 @@ backend
 frontend
 - npm run dev
 
-Ardından 3000 portunda web uygulamayı çalıştırabilirsiniz. 
+Ardından 3000 portunda web uygulamayı çalıştırabilirsiniz...
 
 
